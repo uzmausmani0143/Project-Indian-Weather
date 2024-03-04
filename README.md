@@ -5,7 +5,7 @@
 <h2>This project is made using Python library tkinter for GUI.</h2>
 <h2>It displays the temperature and climate of the Indian cities.</h2>
 
-<img align="right" alt="coding"  src="India_Repository.png">
+<img align="right" alt="coding"  src="India_Repository.PNG">
 
 ## Attributes of the given dataset
   
