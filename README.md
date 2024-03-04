@@ -1,7 +1,8 @@
 
  
 <h1 align="center"> Indian Weather 🌧️</h1>
-<img align="right" alt="coding" width="400" src="weather.png">
+
+<img align="right" alt="coding"  src="weather_tinker.png">
 
 ## Attributes of the given dataset
   
