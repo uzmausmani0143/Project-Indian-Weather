@@ -2,7 +2,10 @@
  
 <h1 align="center"> Indian Weather 🌧️</h1>
 
-<img align="right" alt="coding"  src="weather_tinker.png">
+<h2>This project is made using Python library tkinter for GUI.</h2>
+<h2>It displays the temperature and climate of the Indian cities.</h2>
+
+<img align="right" alt="coding"  src="weather_tinker.jpg">
 
 ## Attributes of the given dataset
   
